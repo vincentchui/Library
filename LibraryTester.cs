@@ -10,7 +10,9 @@ namespace Library
     {
         static void Main(string[] args)
         {
-            
+            Library l = new Library();
+
+            l.menu();
         }
     }
 }
